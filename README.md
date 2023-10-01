@@ -17,3 +17,10 @@
 - Go to http://localhost:8001 or any port you set to open laravel
 
 
+## Test App 
+
+- Run command ```docker exec -it php /bin/sh``` on your terminal
+- Run command ```php artisan test``` on your terminal
+
+
+
